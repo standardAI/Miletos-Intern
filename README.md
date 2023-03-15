@@ -1,1 +1,1 @@
-# Miletos-Intern
+# Miletos-Internship

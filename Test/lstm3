@@ -1,0 +1,178 @@
+Epoch [1/300], Loss: 7.9327
+Başarım train: 0.38 : 0.45
+Yüzler train: 0.79
+Onlar train: 0.46
+Birler train: 0.11
+
+Başarım val: 0.54 : 0.43
+Yüzler val: 0.85
+Onlar val: 0.34
+Birler val: 0.09
+
+Epoch [20/300], Loss: 7.4882
+Başarım train: 0.38 : 0.45
+Yüzler train: 0.79
+Onlar train: 0.46
+Birler train: 0.11
+
+Başarım val: 0.54 : 0.43
+Yüzler val: 0.85
+Onlar val: 0.34
+Birler val: 0.09
+
+Epoch [40/300], Loss: 7.4812
+Başarım train: 0.39 : 0.45
+Yüzler train: 0.79
+Onlar train: 0.46
+Birler train: 0.11
+
+Başarım val: 0.54 : 0.43
+Yüzler val: 0.85
+Onlar val: 0.34
+Birler val: 0.10
+
+Epoch [60/300], Loss: 7.3437
+Başarım train: 0.40 : 0.46
+Yüzler train: 0.79
+Onlar train: 0.47
+Birler train: 0.13
+
+Başarım val: 0.54 : 0.44
+Yüzler val: 0.85
+Onlar val: 0.34
+Birler val: 0.13
+
+Epoch [80/300], Loss: 6.6933
+Başarım train: 0.40 : 0.52
+Yüzler train: 0.83
+Onlar train: 0.55
+Birler train: 0.18
+
+Başarım val: 0.54 : 0.45
+Yüzler val: 0.83
+Onlar val: 0.35
+Birler val: 0.18
+
+Epoch [100/300], Loss: 6.0559
+Başarım train: 0.41 : 0.58
+Yüzler train: 0.85
+Onlar train: 0.60
+Birler train: 0.29
+
+Başarım val: 0.52 : 0.42
+Yüzler val: 0.74
+Onlar val: 0.31
+Birler val: 0.23
+
+Epoch [120/300], Loss: 4.4939
+Başarım train: 0.51 : 0.69
+Yüzler train: 0.89
+Onlar train: 0.68
+Birler train: 0.50
+
+Başarım val: 0.57 : 0.53
+Yüzler val: 0.85
+Onlar val: 0.37
+Birler val: 0.36
+
+Epoch [140/300], Loss: 3.4272
+Başarım train: 0.60 : 0.79
+Yüzler train: 0.96
+Onlar train: 0.76
+Birler train: 0.66
+
+Başarım val: 0.57 : 0.55
+Yüzler val: 0.84
+Onlar val: 0.37
+Birler val: 0.44
+
+Epoch [160/300], Loss: 2.7069
+Başarım train: 0.66 : 0.84
+Yüzler train: 0.98
+Onlar train: 0.81
+Birler train: 0.73
+
+Başarım val: 0.55 : 0.58
+Yüzler val: 0.88
+Onlar val: 0.39
+Birler val: 0.47
+
+Epoch [180/300], Loss: 2.2793
+Başarım train: 0.72 : 0.87
+Yüzler train: 0.98
+Onlar train: 0.84
+Birler train: 0.79
+
+Başarım val: 0.55 : 0.59
+Yüzler val: 0.87
+Onlar val: 0.40
+Birler val: 0.49
+
+Epoch [200/300], Loss: 1.8598
+Başarım train: 0.76 : 0.90
+Yüzler train: 0.99
+Onlar train: 0.87
+Birler train: 0.83
+
+Başarım val: 0.58 : 0.60
+Yüzler val: 0.88
+Onlar val: 0.42
+Birler val: 0.51
+
+Epoch [220/300], Loss: 1.6247
+Başarım train: 0.79 : 0.91
+Yüzler train: 0.99
+Onlar train: 0.89
+Birler train: 0.84
+
+Başarım val: 0.57 : 0.60
+Yüzler val: 0.88
+Onlar val: 0.41
+Birler val: 0.51
+
+Epoch [240/300], Loss: 1.1379
+Başarım train: 0.86 : 0.94
+Yüzler train: 1.00
+Onlar train: 0.94
+Birler train: 0.90
+
+Başarım val: 0.58 : 0.60
+Yüzler val: 0.88
+Onlar val: 0.40
+Birler val: 0.51
+
+Epoch [260/300], Loss: 0.9663
+Başarım train: 0.89 : 0.96
+Yüzler train: 1.00
+Onlar train: 0.96
+Birler train: 0.92
+
+Başarım val: 0.57 : 0.60
+Yüzler val: 0.88
+Onlar val: 0.38
+Birler val: 0.53
+
+Epoch [280/300], Loss: 0.8874
+Başarım train: 0.91 : 0.97
+Yüzler train: 1.00
+Onlar train: 0.96
+Birler train: 0.94
+
+Başarım val: 0.56 : 0.60
+Yüzler val: 0.87
+Onlar val: 0.40
+Birler val: 0.53
+
+Epoch [300/300], Loss: 0.7419
+Başarım train: 0.90 : 0.96
+Yüzler train: 1.00
+Onlar train: 0.95
+Birler train: 0.93
+
+Başarım val: 0.55 : 0.59
+Yüzler val: 0.86
+Onlar val: 0.38
+Birler val: 0.53
+
+Finished in 734s
+

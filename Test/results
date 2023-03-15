@@ -1,0 +1,243 @@
+EPOCH: 1.000	trn_loss: 1.760	trn_digit_acc: 0.267	trn_whole_number_acc: 0.000	val_loss: 1.650	val_digit_acc: 0.500	val_whole_number_acc: 0.000	(34.24s - 992.88s remaining)
+
+Pred: `19` :: Truth: `1899`
+Pred: `19` :: Truth: `1900`
+Pred: `19` :: Truth: `1913`
+Pred: `19` :: Truth: `1904`
+Pred: `19` :: Truth: `1898`
+
+EPOCH: 2.000	trn_loss: 1.093	trn_digit_acc: 0.524	trn_whole_number_acc: 0.000	val_loss: 1.530	val_digit_acc: 0.525	val_whole_number_acc: 0.000	(69.57s - 973.94s remaining)
+
+Pred: `198` :: Truth: `1924`
+Pred: `198` :: Truth: `1902`
+Pred: `198` :: Truth: `1923`
+Pred: `198` :: Truth: `1896`
+Pred: `198` :: Truth: `1944`
+
+EPOCH: 3.000	trn_loss: 1.047	trn_digit_acc: 0.576	trn_whole_number_acc: 0.034	val_loss: 1.654	val_digit_acc: 0.571	val_whole_number_acc: 0.032	(104.92s - 944.24s remaining)
+
+Pred: `1905` :: Truth: `1916`
+Pred: `1905` :: Truth: `1915`
+Pred: `1905` :: Truth: `1905`
+Pred: `1905` :: Truth: `1903`
+Pred: `1905` :: Truth: `1901`
+
+EPOCH: 4.000	trn_loss: 1.035	trn_digit_acc: 0.589	trn_whole_number_acc: 0.041	val_loss: 1.707	val_digit_acc: 0.566	val_whole_number_acc: 0.028	(140.27s - 911.78s remaining)
+
+Pred: `1909` :: Truth: `1899`
+Pred: `1909` :: Truth: `1962`
+Pred: `1909` :: Truth: `1926`
+Pred: `1909` :: Truth: `1914`
+Pred: `1909` :: Truth: `1920`
+
+EPOCH: 5.000	trn_loss: 1.018	trn_digit_acc: 0.600	trn_whole_number_acc: 0.042	val_loss: 1.777	val_digit_acc: 0.539	val_whole_number_acc: 0.025	(175.62s - 878.08s remaining)
+
+Pred: `1907` :: Truth: `1905`
+Pred: `197` :: Truth: `1899`
+Pred: `18907` :: Truth: `1922`
+Pred: `1907` :: Truth: `1916`
+Pred: `197` :: Truth: `1921`
+
+EPOCH: 6.000	trn_loss: 0.965	trn_digit_acc: 0.638	trn_whole_number_acc: 0.056	val_loss: 1.773	val_digit_acc: 0.569	val_whole_number_acc: 0.034	(210.95s - 843.80s remaining)
+
+Pred: `18903` :: Truth: `1902`
+Pred: `1903` :: Truth: `1919`
+Pred: `1903` :: Truth: `1903`
+Pred: `18903` :: Truth: `1905`
+Pred: `1903` :: Truth: `1901`
+
+EPOCH: 7.000	trn_loss: 0.868	trn_digit_acc: 0.681	trn_whole_number_acc: 0.088	val_loss: 1.829	val_digit_acc: 0.596	val_whole_number_acc: 0.042	(246.30s - 809.28s remaining)
+
+Pred: `1901` :: Truth: `1914`
+Pred: `1901` :: Truth: `1903`
+Pred: `1901` :: Truth: `1904`
+Pred: `1901` :: Truth: `1908`
+Pred: `1901` :: Truth: `1921`
+
+EPOCH: 8.000	trn_loss: 0.823	trn_digit_acc: 0.689	trn_whole_number_acc: 0.084	val_loss: 1.766	val_digit_acc: 0.612	val_whole_number_acc: 0.047	(281.63s - 774.49s remaining)
+
+Pred: `1903` :: Truth: `1896`
+Pred: `1903` :: Truth: `1913`
+Pred: `1903` :: Truth: `1905`
+Pred: `1903` :: Truth: `1896`
+Pred: `1903` :: Truth: `1922`
+
+EPOCH: 9.000	trn_loss: 0.793	trn_digit_acc: 0.694	trn_whole_number_acc: 0.088	val_loss: 1.714	val_digit_acc: 0.599	val_whole_number_acc: 0.053	(316.98s - 739.62s remaining)
+
+Pred: `1904` :: Truth: `1926`
+Pred: `1908` :: Truth: `1904`
+Pred: `1904` :: Truth: `1902`
+Pred: `1904` :: Truth: `1911`
+Pred: `1898` :: Truth: `1912`
+
+EPOCH: 10.000	trn_loss: 0.789	trn_digit_acc: 0.699	trn_whole_number_acc: 0.093	val_loss: 1.613	val_digit_acc: 0.637	val_whole_number_acc: 0.071	(352.33s - 704.67s remaining)
+
+Pred: `199` :: Truth: `1899`
+Pred: `1909` :: Truth: `1966`
+Pred: `1901` :: Truth: `1901`
+Pred: `1903` :: Truth: `1963`
+Pred: `1903` :: Truth: `1925`
+
+EPOCH: 11.000	trn_loss: 0.706	trn_digit_acc: 0.746	trn_whole_number_acc: 0.149	val_loss: 1.531	val_digit_acc: 0.665	val_whole_number_acc: 0.103	(387.71s - 669.68s remaining)
+
+Pred: `1917` :: Truth: `1917`
+Pred: `197` :: Truth: `1909`
+Pred: `1895` :: Truth: `1897`
+Pred: `1905` :: Truth: `1958`
+Pred: `1897` :: Truth: `1897`
+
+EPOCH: 12.000	trn_loss: 0.589	trn_digit_acc: 0.805	trn_whole_number_acc: 0.277	val_loss: 1.511	val_digit_acc: 0.704	val_whole_number_acc: 0.192	(423.04s - 634.56s remaining)
+
+Pred: `190` :: Truth: `1906`
+Pred: `1907` :: Truth: `1927`
+Pred: `1908` :: Truth: `1938`
+Pred: `1912` :: Truth: `1912`
+Pred: `1902` :: Truth: `1905`
+
+EPOCH: 13.000	trn_loss: 0.439	trn_digit_acc: 0.873	trn_whole_number_acc: 0.519	val_loss: 1.441	val_digit_acc: 0.762	val_whole_number_acc: 0.327	(458.40s - 599.44s remaining)
+
+Pred: `1895` :: Truth: `1895`
+Pred: `1905` :: Truth: `1935`
+Pred: `1895` :: Truth: `1925`
+Pred: `1915` :: Truth: `1925`
+Pred: `1907` :: Truth: `1909`
+
+EPOCH: 14.000	trn_loss: 0.344	trn_digit_acc: 0.913	trn_whole_number_acc: 0.668	val_loss: 1.459	val_digit_acc: 0.795	val_whole_number_acc: 0.407	(493.76s - 564.29s remaining)
+
+Pred: `1910` :: Truth: `1946`
+Pred: `1917` :: Truth: `1917`
+Pred: `1914` :: Truth: `1897`
+Pred: `1915` :: Truth: `1915`
+Pred: `1909` :: Truth: `1909`
+
+EPOCH: 15.000	trn_loss: 0.276	trn_digit_acc: 0.937	trn_whole_number_acc: 0.760	val_loss: 1.409	val_digit_acc: 0.820	val_whole_number_acc: 0.462	(529.13s - 529.13s remaining)
+
+Pred: `1895` :: Truth: `1895`
+Pred: `1899` :: Truth: `1899`
+Pred: `1911` :: Truth: `1921`
+Pred: `1917` :: Truth: `1917`
+Pred: `1903` :: Truth: `1933`
+
+EPOCH: 16.000	trn_loss: 0.209	trn_digit_acc: 0.957	trn_whole_number_acc: 0.833	val_loss: 1.306	val_digit_acc: 0.838	val_whole_number_acc: 0.519	(564.51s - 493.94s remaining)
+
+Pred: `1915` :: Truth: `1935`
+Pred: `1906` :: Truth: `1906`
+Pred: `1918` :: Truth: `1925`
+Pred: `1902` :: Truth: `1932`
+Pred: `1915` :: Truth: `1915`
+
+EPOCH: 17.000	trn_loss: 0.172	trn_digit_acc: 0.968	trn_whole_number_acc: 0.876	val_loss: 1.377	val_digit_acc: 0.842	val_whole_number_acc: 0.518	(599.85s - 458.71s remaining)
+
+Pred: `1902` :: Truth: `1933`
+Pred: `1907` :: Truth: `1907`
+Pred: `1901` :: Truth: `1901`
+Pred: `1913` :: Truth: `1913`
+Pred: `1896` :: Truth: `1896`
+
+EPOCH: 18.000	trn_loss: 0.149	trn_digit_acc: 0.974	trn_whole_number_acc: 0.901	val_loss: 1.414	val_digit_acc: 0.841	val_whole_number_acc: 0.508	(635.21s - 423.47s remaining)
+
+Pred: `1906` :: Truth: `1906`
+Pred: `1899` :: Truth: `1899`
+Pred: `1896` :: Truth: `1896`
+Pred: `1902` :: Truth: `1933`
+Pred: `1915` :: Truth: `1925`
+
+EPOCH: 19.000	trn_loss: 0.133	trn_digit_acc: 0.980	trn_whole_number_acc: 0.921	val_loss: 1.396	val_digit_acc: 0.856	val_whole_number_acc: 0.547	(670.56s - 388.22s remaining)
+
+Pred: `1896` :: Truth: `1896`
+Pred: `1902` :: Truth: `1922`
+Pred: `1910` :: Truth: `1929`
+Pred: `1919` :: Truth: `1940`
+Pred: `1910` :: Truth: `1900`
+
+EPOCH: 20.000	trn_loss: 0.117	trn_digit_acc: 0.983	trn_whole_number_acc: 0.934	val_loss: 1.464	val_digit_acc: 0.847	val_whole_number_acc: 0.534	(705.90s - 352.95s remaining)
+
+Pred: `1898` :: Truth: `1898`
+Pred: `1902` :: Truth: `1902`
+Pred: `1902` :: Truth: `1903`
+Pred: `1902` :: Truth: `1910`
+Pred: `1907` :: Truth: `1927`
+
+EPOCH: 21.000	trn_loss: 0.099	trn_digit_acc: 0.986	trn_whole_number_acc: 0.944	val_loss: 1.325	val_digit_acc: 0.861	val_whole_number_acc: 0.572	(741.24s - 317.67s remaining)
+
+Pred: `1909` :: Truth: `1909`
+Pred: `1907` :: Truth: `1907`
+Pred: `1896` :: Truth: `1896`
+Pred: `1903` :: Truth: `1923`
+Pred: `1914` :: Truth: `1914`
+
+EPOCH: 22.000	trn_loss: 0.087	trn_digit_acc: 0.988	trn_whole_number_acc: 0.954	val_loss: 1.433	val_digit_acc: 0.859	val_whole_number_acc: 0.566	(776.58s - 282.39s remaining)
+
+Pred: `1898` :: Truth: `1898`
+Pred: `1902` :: Truth: `1902`
+Pred: `1919` :: Truth: `1919`
+Pred: `1899` :: Truth: `1899`
+Pred: `1903` :: Truth: `1908`
+
+EPOCH: 23.000	val_loss: 0.124	val_digit_acc: 0.977	val_whole_number_acc: 0.922	(811.92s - 247.11s remaining)Epoch 00023: reducing learning rate of group 0 to 1.5000e-03.
+EPOCH: 23.000	trn_loss: 0.078	trn_digit_acc: 0.990	trn_whole_number_acc: 0.960	val_loss: 1.417	val_digit_acc: 0.864	val_whole_number_acc: 0.572	(811.93s - 247.11s remaining)
+
+Pred: `1906` :: Truth: `1906`
+Pred: `1909` :: Truth: `1909`
+Pred: `1913` :: Truth: `1913`
+Pred: `1917` :: Truth: `1917`
+Pred: `1914` :: Truth: `1914`
+
+EPOCH: 24.000	trn_loss: 0.056	trn_digit_acc: 0.994	trn_whole_number_acc: 0.975	val_loss: 1.443	val_digit_acc: 0.867	val_whole_number_acc: 0.583	(847.28s - 211.82s remaining)
+
+Pred: `1899` :: Truth: `1899`
+Pred: `190` :: Truth: `1906`
+Pred: `1901` :: Truth: `1901`
+Pred: `1918` :: Truth: `1918`
+Pred: `1913` :: Truth: `1913`
+
+EPOCH: 25.000	trn_loss: 0.046	trn_digit_acc: 0.995	trn_whole_number_acc: 0.979	val_loss: 1.454	val_digit_acc: 0.869	val_whole_number_acc: 0.584	(882.60s - 176.52s remaining)
+
+Pred: `1906` :: Truth: `1906`
+Pred: `1898` :: Truth: `1898`
+Pred: `1906` :: Truth: `1906`
+Pred: `1919` :: Truth: `1919`
+Pred: `1898` :: Truth: `1898`
+
+EPOCH: 26.000	trn_loss: 0.048	trn_digit_acc: 0.996	trn_whole_number_acc: 0.983	val_loss: 1.456	val_digit_acc: 0.866	val_whole_number_acc: 0.584	(917.98s - 141.23s remaining)
+
+Pred: `1914` :: Truth: `1974`
+Pred: `1897` :: Truth: `1897`
+Pred: `1895` :: Truth: `1895`
+Pred: `1908` :: Truth: `1903`
+Pred: `1902` :: Truth: `1932`
+
+EPOCH: 27.000	val_loss: 0.107	val_digit_acc: 0.984	val_whole_number_acc: 0.953	(953.35s - 105.93s remaining)Epoch 00027: reducing learning rate of group 0 to 7.5000e-04.
+EPOCH: 27.000	trn_loss: 0.045	trn_digit_acc: 0.996	trn_whole_number_acc: 0.984	val_loss: 1.469	val_digit_acc: 0.864	val_whole_number_acc: 0.582	(953.35s - 105.93s remaining)
+
+Pred: `1897` :: Truth: `1895`
+Pred: `1919` :: Truth: `1939`
+Pred: `1898` :: Truth: `1898`
+Pred: `1912` :: Truth: `1912`
+Pred: `1906` :: Truth: `1906`
+
+EPOCH: 28.000	trn_loss: 0.035	trn_digit_acc: 0.997	trn_whole_number_acc: 0.988	val_loss: 1.491	val_digit_acc: 0.869	val_whole_number_acc: 0.584	(988.72s - 70.62s remaining)
+
+Pred: `1909` :: Truth: `1909`
+Pred: `1919` :: Truth: `1919`
+Pred: `1902` :: Truth: `1922`
+Pred: `190` :: Truth: `1900`
+Pred: `1903` :: Truth: `1903`
+
+EPOCH: 29.000	trn_loss: 0.030	trn_digit_acc: 0.997	trn_whole_number_acc: 0.990	val_loss: 1.501	val_digit_acc: 0.867	val_whole_number_acc: 0.587	(1024.07s - 35.31s remaining)
+
+Pred: `1918` :: Truth: `1898`
+Pred: `1896` :: Truth: `1896`
+Pred: `1905` :: Truth: `1957`
+Pred: `1912` :: Truth: `1920`
+Pred: `1897` :: Truth: `1897`
+
+EPOCH: 30.000	trn_loss: 0.029	trn_digit_acc: 0.998	trn_whole_number_acc: 0.991	val_loss: 1.509	val_digit_acc: 0.865	val_whole_number_acc: 0.582	(1059.43s - 0.00s remaining)
+
+Pred: `1906` :: Truth: `1906`
+Pred: `1917` :: Truth: `1917`
+Pred: `1900` :: Truth: `1909`
+Pred: `1897` :: Truth: `1897`
+Pred: `1898` :: Truth: `1898`
+
+
